@@ -1,6 +1,6 @@
 ## 🔧 Hardware Model Preview
 
-![Hardware Model](Hardware Model.jpeg)
+![Hardware Model](Hardware_Model.jpg)
 
 # ⚡ IoT Based EV Battery Management System  
 🔋 Real-Time Charge Monitoring & Fire Protection for Electric Vehicles
